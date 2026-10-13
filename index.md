@@ -34,7 +34,8 @@ With Martin Shu and Yichen He
 **The Ripple: Talent Policy and the Redistribution of Global Human Capital**  
 With Zihan Liang
 
-**Trade War, Production Networks, and Structural Change in China**
+**Trade War, Production Networks, and Structural Change in China**  
+With Martin Shu
 
 ## Conferences and Talks
 
