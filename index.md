@@ -64,6 +64,13 @@ Teaching Assistant, The Chinese University of Hong Kong, Shenzhen:
 - **Macroeconomic Theory II (PhD):** Spring 2021, 2024, 2025
 - **Intermediate Macroeconomics:** Spring 2020, 2023
 
+## Beyond Research
+
+<figure style="margin: 0 0 28px;">
+  <img src="miaobao.png" alt="My cat, Miao Bao (喵宝)" loading="lazy" style="display: block; width: 100%; max-width: 340px; height: auto; border-radius: 10px;">
+  <figcaption style="margin-top: 10px;">My lovely cat, <strong>Miao Bao (喵宝)</strong>.</figcaption>
+</figure>
+
 ## Contact
 
 [weikanghu@link.cuhk.edu.cn](mailto:weikanghu@link.cuhk.edu.cn)  
