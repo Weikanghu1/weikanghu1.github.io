@@ -7,7 +7,7 @@ title: Weikang Hu
 
 ## About
 
-I am a PhD student in Economics at The Chinese University of Hong Kong, Shenzhen. My research interests are **urban economics and development economics**. I study how housing markets and family resources shape where people live, work, and build wealth.
+I am a PhD student in Economics at The Chinese University of Hong Kong, Shenzhen. My research interests are **urban and macroeconomics**.
 
 **I am on the 2026–27 academic job market.**
 
