@@ -19,7 +19,7 @@ I am a PhD student in Economics at The Chinese University of Hong Kong, Shenzhen
 
 **Who Gets to Live in Productive Cities? Family Transfers, Housing Costs, and Spatial Sorting** (Job Market Paper)
 
-[Paper (PDF)](jmp.pdf) · September 2026
+[Paper (PDF)](jmp.pdf) · [Slides (PDF)](slides.pdf) · September 2026
 
 Family transfers help young households buy homes in productive cities much more than they change where those households live. I develop a quantitative life-cycle spatial equilibrium model calibrated to urban China. Relative to an equilibrium without inter vivos transfers, parental support raises the share of young households living in the high-productivity region by 3.3% and the share owning there by 39.3%. Rental housing limits the residence response. Transfers have modest aggregate output effects, but raise house prices and widen ownership and wealth gaps by parental wealth.
 
